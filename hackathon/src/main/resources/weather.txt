@@ -1,0 +1,6 @@
+75013,cloudy
+75070,sunny
+75093,cloudy
+75075,sunny
+76063,cloudy
+75024,sunny
